@@ -8,3 +8,5 @@ Creating a new branch is quick and simple.
 hello,this is dev branch doing.
 xxxx
 I will do something on local dev and merge with another's working on dev.
+
+creating a new branch is quick and simple

@@ -8,4 +8,7 @@ Creating a new branch is quick and simple.
 hello,this is dev branch doing.
 
 
-confilct solution,creating a new branch is quick and simple
+conilct solution,creating a new branch is quick and simple
+
+
+shit

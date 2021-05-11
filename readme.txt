@@ -8,9 +8,14 @@ Creating a new branch is quick and simple.
 hello,this is dev branch doing.
 
 
+
 iam ok`
 
 conilct solution,creating a new branch is quick and simple
 
 
 shit thank god
+
+fuck
+
+i will be ok,feature0
